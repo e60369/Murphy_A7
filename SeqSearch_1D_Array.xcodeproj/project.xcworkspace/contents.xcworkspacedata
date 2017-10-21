@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Murphy_A7.xcodeproj">
+      location = "self:/Users/rmurphy/Desktop/C++/Murphy_A7/SeqSearch_1D_Array.xcodeproj">
    </FileRef>
 </Workspace>
